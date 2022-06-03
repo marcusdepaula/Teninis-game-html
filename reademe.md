@@ -1,1 +1,1 @@
-# Game criado na aula do Chris DeLeon/Udemy
+# Game baseado na aula do Chris DeLeon/Udemy
